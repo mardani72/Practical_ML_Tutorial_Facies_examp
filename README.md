@@ -5,5 +5,6 @@ This tutorial has three parts: This tutorial has four parts:
 Part.1: Exploratory Data Analysis,
 Part.2: Build Model & Validate,
 Part.3: Model Evaluation-1,
-Part.4: Model Evaluation-2. In the final part, we will examine model performances on blind well data that we kept out of models exposure.
+Part.4: Model Evaluation-2. 
+In the final part, we will examine model performances on blind well data that we kept out of models exposure.
 
